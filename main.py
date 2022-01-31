@@ -1,1 +1,1 @@
-
+print("Hello Fujiko Kashimada")
